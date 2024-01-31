@@ -1,5 +1,7 @@
 Description:
 This is a google keep app clone like it work like to do list
+git clone https://github.com/your-username/folder_name.git
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
